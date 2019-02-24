@@ -500,11 +500,19 @@
     <string name="lockscreen_clock_selection_title">Стиль часов</string>
     <string name="lockscreen_clock_selection_digital">По умолчанию</string>
     <string name="lockscreen_clock_selection_digital_bold">Цифровые (жирные)</string>
-    <string name="lockscreen_clock_selection_analog">Аналоговые</string>
+    <string name="lockscreen_clock_selection_digital_accent">Цифровые (Акцент)</string>
+    <string name="lockscreen_clock_selection_digital_accent_min">Цифровые (Акцент - минуты)</string>
+    <string name="lockscreen_clock_selection_digital_accent_hour">Цифровые (Акцент - Часы)</string>
     <string name="lockscreen_clock_selection_sammy">Сэмми</string>
     <string name="lockscreen_clock_selection_sammy_bold">Сэмми (жирные)</string>
-    <string name="lockscreen_clock_selection_sammy_accent">Сэмми с акцентом</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Сэмми с акцентом (альт.)</string>
+    <string name="lockscreen_clock_selection_sammy_accent">Сэмми (Акцент)</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Сэмми (Акцент - альт.)</string>
+    <string name="lockscreen_clock_selection_analog">Аналоговые (Темные)</string>
+    <string name="lockscreen_clock_selection_analog_num">Аналоговые (Светлые)</string>
+    <string name="lockscreen_clock_selection_spidey">Аналоговые (Спиди)</string>
+    <string name="lockscreen_clock_selection_dot">Аналоговые (Дот)</string>
+    <string name="lockscreen_clock_selection_spectrum">Аналоговые (Спектрум)</string>
+    <string name="lockscreen_clock_selection_sneeky">Аналоговые (Сники)</string>
 	
     <!-- Screen off animation -->
     <string name="screen_off_animation_title">Анимация выключения экрана</string>
