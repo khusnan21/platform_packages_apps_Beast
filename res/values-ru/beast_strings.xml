@@ -280,7 +280,7 @@
 	
     <!-- Volume rocker wake -->
     <string name="volume_rocker_wake_title">Пробуждение громкостью</string>
-    <string name="volume_rocker_wake_summary">Нажатие на кнопки громкости пробудлает устройство</string>
+    <string name="volume_rocker_wake_summary">Нажатие на кнопки громкости пробуждает устройство</string>
 	
     <string name="oreo_recents_category">Недавние приложения Oreo</string>
 	
@@ -519,6 +519,6 @@
     <string name="screen_off_animation_default">По умолчанию</string>
     <string name="screen_off_animation_crt">ЭЛТ</string>
     <string name="screen_off_animation_scale">Масштаб</string>
-
+	
 </resources>
 
