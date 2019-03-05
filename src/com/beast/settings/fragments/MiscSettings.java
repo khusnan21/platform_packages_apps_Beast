@@ -23,6 +23,12 @@ import java.util.HashSet;
  import com.android.settings.SettingsPreferenceFragment;
  public class MiscSettings extends SettingsPreferenceFragment implements
         OnPreferenceChangeListener {
+ 
+ public static final String TAG = "Misc";
+  
+ private static final String KEY_DEVICE_PART = "advanced_controls";
+ private static final String KEY_DEVICE_PART_PACKAGE_NAME = "com.thht.settings.device";
+  
      @Override
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
